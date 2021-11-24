@@ -9,13 +9,14 @@ Group:          Productivity/Scientific
 URL:            https://github.com/cutefishos/cutefish-calculator
 Source:         https://github.com/cutefishos/calculator/archive/refs/tags/%{version}/%{oname}-%{version}.tar.gz
 
+BuildRequires:  qmake5
 BuildRequires:  cmake
 BuildRequires:  cmake(Qt5LinguistTools)
 BuildRequires:  pkgconfig(Qt5Core)
 BuildRequires:  pkgconfig(Qt5Gui)
 BuildRequires:  pkgconfig(Qt5Quick)
 BuildRequires:  pkgconfig(Qt5QuickControls2)
-#BuildRequires:  update-desktop-files
+
 
 Requires:       fishui
 
