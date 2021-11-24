@@ -15,7 +15,7 @@ BuildRequires:  pkgconfig(Qt5Core)
 BuildRequires:  pkgconfig(Qt5Gui)
 BuildRequires:  pkgconfig(Qt5Quick)
 BuildRequires:  pkgconfig(Qt5QuickControls2)
-BuildRequires:  update-desktop-files
+#BuildRequires:  update-desktop-files
 
 Requires:       fishui
 
