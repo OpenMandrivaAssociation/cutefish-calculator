@@ -6,7 +6,7 @@ Release:        2
 Summary:        Calculator
 License:        GPL-3.0-or-later
 Group:          Productivity/Scientific
-URL:            https://github.com/cutefishos/cutefish-calculator
+URL:            https://github.com/cutefishos/cutefish
 Source:         https://github.com/cutefishos/calculator/archive/refs/tags/%{version}/%{oname}-%{version}.tar.gz
 
 BuildRequires:  qmake5
