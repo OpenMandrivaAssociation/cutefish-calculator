@@ -2,7 +2,7 @@
 
 Name:           cutefish-calculator
 Version:        0.4
-Release:        2
+Release:        3
 Summary:        Calculator
 License:        GPL-3.0-or-later
 Group:          Productivity/Scientific
